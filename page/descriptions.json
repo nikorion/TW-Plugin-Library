@@ -2,7 +2,7 @@
   "fr": {
     "chart": "Widget intégrant Chart.js",
     "dyntable": "Dynamic Table : tableaux HTML éditables, triables et paginés, construits à partir d'un filtre",
-    "fonts": "Une collection de polices web autonomes pour TiddlyWiki",
+    "font-manager": "Un gestionnaire de polices web pour TiddlyWiki : déposez un fichier de police, il devient une feuille de style autonome",
     "hover-tilt": "Un widget $HoverTilt qui enveloppe le Web Component de hover-tilt, pour un effet 3D d'inclinaison et de reflet sur n'importe quel contenu",
     "math": "Widget intégrant Math.js",
     "pkm-fields": "Place les champs du schéma pkm dans le formulaire d'édition des tiddlers, et dans les colonnes de Dynamic Table s'il est installé : listes déroulantes, boutons radio, cases à cocher et sélecteurs, construits d'après la définition de chaque champ",
