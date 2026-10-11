@@ -11,7 +11,7 @@
     "library": [
       "--output", "docs/library",
       "--makelibrary", "$:/UpgradeLibrary",
-      "--savelibrarytiddlers", "$:/UpgradeLibrary", "[prefix[$:/plugins/nikorion/]] -[[$:/plugins/nikorion/detect-language]] -[[$:/plugins/nikorion/tw-dev]]", "recipes/library/tiddlers/", "$:/UpgradeLibrary/List",
+      "--savelibrarytiddlers", "$:/UpgradeLibrary", "[prefix[$:/plugins/nikorion/]] [prefix[$:/themes/nikorion/]] -[[$:/plugins/nikorion/detect-language]] -[[$:/plugins/nikorion/tw-dev]]", "recipes/library/tiddlers/", "$:/UpgradeLibrary/List",
       "--savetiddler", "$:/UpgradeLibrary/List", "recipes/library/tiddlers.json",
       "--rendertiddler", "$:/plugins/tiddlywiki/pluginlibrary/library.template.html", "index.html", "text/plain"
     ]
