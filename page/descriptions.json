@@ -7,7 +7,6 @@
     "layout": "Zones de défilement isolées : le fil des tiddlers, les onglets de la barre latérale et le contenu des onglets défilent chacun indépendamment",
     "math": "Widget intégrant Math.js",
     "palette": "La palette de couleurs de nikorion : une copie de la palette Vanilla par défaut à ajuster, avec le réglage qui la sélectionne",
-    "pkm": "Briques du PKM réunies en un plugin : schéma des champs et contrôles d'édition, tableaux dynamiques et statiques, sous-ensemble Bootstrap",
     "pkm-fields": "Place les champs du schéma pkm dans le formulaire d'édition des tiddlers, et dans les colonnes de Dynamic Table s'il est installé : listes déroulantes, boutons radio, cases à cocher et sélecteurs, construits d'après la définition de chaque champ",
     "pkm-schema": "Champs et vocabulaires contrôlés de la suite pkm : définitions, icônes, libellés et traductions, lus par les autres plugins pkm",
     "pkm-theme": "Un thème basé sur Vanilla (dépendance, rien de copié) : réglages, feuilles de style et surcharges de shadow tiddlers",
