@@ -15,7 +15,7 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const DOCS = path.join(ROOT, "docs");
-const SITE = "https://nikorion.github.io/tw-plugins/";
+const SITE = "https://nikorion.github.io/TW-Plugin-Library/";
 const LIBRARY_URL = SITE + "library/index.html";
 
 const repos = JSON.parse(fs.readFileSync(process.argv[2], "utf8"));
