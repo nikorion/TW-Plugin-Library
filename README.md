@@ -2,6 +2,8 @@
 
 **English** · [Français](README.fr.md)
 
+![Status](https://img.shields.io/badge/status-experimental-orange)
+
 The nikorion TiddlyWiki plugin library: **[nikorion.github.io/TW-Plugin-Library](https://nikorion.github.io/TW-Plugin-Library/)**.
 
 Drag the button of that page onto your wiki once; *Control Panel → Plugins → Get more plugins → Open plugin library* then shows a **nikorion** tab to install every nikorion plugin, and offers each new version as an update.
